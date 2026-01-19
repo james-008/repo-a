@@ -1,14 +1,6 @@
 /*
  * Sin-Yaw Wang <swang24@scu.edu>
- * recipe for containers using C-style array
- */
-#include <iostream>
-#include <iomanip>
-#include <cstddef>
-#include <stdexcept>
-#include <string>
-#include <string.h>
-#include "bag.h"
+
 
 namespace csen79
 {
